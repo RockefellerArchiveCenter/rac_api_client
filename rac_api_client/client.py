@@ -23,7 +23,6 @@ class Client(object):
         url = f"{self.base_url.rstrip('/')}/{path.lstrip('/')}"
         response = getattr(self.session, method)(url, params=params)
         try:
-            print(response.url)
             response.raise_for_status()
             return response.json()
         except requests.exceptions.RequestException:
