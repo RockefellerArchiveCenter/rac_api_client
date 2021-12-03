@@ -10,7 +10,7 @@ class Client(object):
         A Client object with session, optional auth handler, and options.
 
         """
-        self.base_url ='https://api.rockarch.org'
+        self.base_url = 'https://api.rockarch.org'
         self.page_size = 50
         self.session = session or requests.Session()
         self.session.headers.update({
