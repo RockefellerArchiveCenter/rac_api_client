@@ -30,13 +30,13 @@ client.get("/collections/WY7fpswEV3oLhyjiArpHES")
 - `get_paged` returns all results for paged content, for example a list of collections or search results.
 
 ```
-client.get("/collections")
+client.get_paged("/collections")
 ```
 
 For both of these methods, parameters can optionally be passed as a dictionary.
 
 ```
-client.get("/objects", params={"online": True, "start_date__gte": "1950"})
+client.get_paged("/objects", params={"online": True, "start_date__gte": "1950"})
 client.get("/search", params={"query": "yellow fever"})
 ```
 
