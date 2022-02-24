@@ -1,3 +1,5 @@
+import json
+
 import requests
 
 
@@ -21,6 +23,11 @@ class Client(object):
     def request(self, method, path, params=None):
         """Dispatches a request to the RAC HTTP API"""
         url = f"{self.base_url.rstrip('/')}/{path.lstrip('/')}"
+        # Convert booleans to JSON values
+        if params:
+            for key, val in params.items():
+                if isinstance(val, bool):
+                    params[key] = json.dumps(val)
         response = getattr(self.session, method)(url, params=params)
         try:
             response.raise_for_status()

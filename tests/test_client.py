@@ -1,6 +1,7 @@
 from unittest.mock import patch
 
 import requests
+
 from rac_api_client import Client
 
 
