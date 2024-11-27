@@ -26,7 +26,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Install dependencies
+      - name: Install tox
         run: pip install --upgrade tox
 
       - name: Run tox
