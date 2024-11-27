@@ -11,7 +11,7 @@ jobs:
     strategy:
       matrix:
         python-version: ["3.10"]
-        toxenv: [py310, linting] 
+        toxenv: [py310, linting]
 
     steps:
       - name: Checkout code
@@ -24,7 +24,7 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: pip install -r test_requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run tox
         run: tox
