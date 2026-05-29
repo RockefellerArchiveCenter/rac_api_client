@@ -1,8 +1,6 @@
 # rac_api_client
 A client to interact with the Rockefeller Archive Center's Collections API.
 
-[![Build Status](https://app.travis-ci.com/RockefellerArchiveCenter/rac_api_client.svg?branch=base)](https://app.travis-ci.com/RockefellerArchiveCenter/rac_api_client)
-
 ## Dependencies
 
 *   [Python 3.6 or higher](https://www.python.org/)
