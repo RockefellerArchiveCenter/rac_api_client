@@ -1,5 +1,5 @@
 __title__ = 'rac_api_client'
-__version__ = '0.1.5'
+__version__ = '0.1.6'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2021 Rockefeller Archive Center'
 
