@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.7](https://github.com/RockefellerArchiveCenter/rac_api_client/compare/rac_api_client-v0.1.6...rac_api_client-v0.1.7) (2026-10-22)
+
+
+### Bug Fixes
+
+* update pip ([6a1476c](https://github.com/RockefellerArchiveCenter/rac_api_client/commit/6a1476c990a4afed2c08a88d236e682bc4973dda))
+* update pip ([6a1476c](https://github.com/RockefellerArchiveCenter/rac_api_client/commit/6a1476c990a4afed2c08a88d236e682bc4973dda))
+* update pip ([97e2481](https://github.com/RockefellerArchiveCenter/rac_api_client/commit/97e2481d559ef775dfe1abcd888f403b5ba07e3a))
+* update pip ([97e2481](https://github.com/RockefellerArchiveCenter/rac_api_client/commit/97e2481d559ef775dfe1abcd888f403b5ba07e3a))
+* update pip ([990a402](https://github.com/RockefellerArchiveCenter/rac_api_client/commit/990a40299447318fa89b527df99a8f409ec45494))
+
 ## [0.1.6](https://github.com/RockefellerArchiveCenter/rac_api_client/compare/rac_api_client-v0.1.5...rac_api_client-v0.1.6) (2026-10-05)
 
 
