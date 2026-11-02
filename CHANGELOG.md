@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.8](https://github.com/RockefellerArchiveCenter/rac_api_client/compare/rac_api_client-v0.1.7...rac_api_client-v0.1.8) (2026-11-02)
+
+
+### Bug Fixes
+
+* **deps:** Scheduled dependency updates ([199b61d](https://github.com/RockefellerArchiveCenter/rac_api_client/commit/199b61d84254afceb201e140b4f315603702e050))
+* **deps:** Scheduled dependency updates ([199b61d](https://github.com/RockefellerArchiveCenter/rac_api_client/commit/199b61d84254afceb201e140b4f315603702e050))
+* **deps:** Scheduled dependency updates ([76b7b5b](https://github.com/RockefellerArchiveCenter/rac_api_client/commit/76b7b5bbb4665171209d6759e2fd6d75d19699ff))
+* **deps:** Scheduled dependency updates ([76b7b5b](https://github.com/RockefellerArchiveCenter/rac_api_client/commit/76b7b5bbb4665171209d6759e2fd6d75d19699ff))
+* **deps:** Scheduled dependency updates ([6a01862](https://github.com/RockefellerArchiveCenter/rac_api_client/commit/6a018620d594b108bb0b060b0594d78474e521e6))
+
 ## [0.1.7](https://github.com/RockefellerArchiveCenter/rac_api_client/compare/rac_api_client-v0.1.6...rac_api_client-v0.1.7) (2026-10-22)
 
 
